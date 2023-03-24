@@ -3,7 +3,7 @@ https://youtu.be/ZFAB6sG3KRo
 
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
-https://github.com/annajiat/CSE123/blob/main/submission3/Concept%20Map.pdf
+https://github.com/DhrubaDC1/CSE713/blob/main/Submission%203/Concept%20Map.pdf
 Native/original format: 
 https://lucid.app/lucidchart/5a021c30-d647-4869-9bf1-1394e58cda49/edit?view_items=l.bIBXMlQm_4&invitationId=inv_fb30d5fe-e200-47c0-b7b4-3b75a107a077
 
