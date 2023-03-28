@@ -5,7 +5,7 @@ Paper title:
 Tomato Leaf Disease Classification using Convolutional Neural Network
 
 Paper presentation (anyone can view without login):
-
+https://github.com/DhrubaDC1/CSE713/blob/main/Submission%204/2023_Spring_Tomato_Leaf_Disease_Classification_using_Convolutional_Neural_Network.pdf
 
 Group Number:
 13
